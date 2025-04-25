@@ -2,7 +2,7 @@
 export default function LoanEntries() {
   return (
     <div className="flex flex-col items-center min-h-screen bg-gray-100 py-8">
-      <h1 className="text-3xl font-bold mb-6 text-center">My Loan Records</h1>
+      <h1 className="text-3xl font-bold text-center">My Loan Records</h1>
         <div className="w-full max-w-md space-y-4 m-15">
           <div className="bg-white rounded-xl shadow-md p-4">
             <p className="font-bold text-lg">
